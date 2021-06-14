@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  position: relative;
+  font-family: "Open Sans", "Bebas Neue", sans-serif;
+}
